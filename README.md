@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo, eu sou Vinicius Witzgall 👋
 
-- 👨‍💻 Estudo Analise e Desenvolvimento de Sistemas.
-- 📚 Estou me aprofundando mais na area com cursos online.
+- 👨‍💻 Estudo Análise e Desenvolvimento de Sistemas.
+- 📚 Estou me aprofundando mais na área com cursos online.
 
 <div align="center">
   <a href="https://github.com/ViniciusWitzgall/ViniciusWitzgall">

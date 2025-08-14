@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusWitzgall&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display:flex; flex-wrap:wrap; gap:10px 4py; align-items:center;"><br>
+<div style="display:flex; flex-wrap:wrap; gap:20px 10px; align-items:center;">
     <img align="center" alt="Vini-Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Vini-Laravel" height="30" src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"> 
     <img align="center" alt="Vini-C++" height="30" src="https://img.shields.io/badge/C%2B%2B-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -22,6 +22,7 @@
     <img align="center" alt="Vini-mysql" height="30" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="Vini-Js" height="30" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"> 
 </div>
+
 
   
 ##

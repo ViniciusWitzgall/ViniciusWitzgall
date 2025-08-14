@@ -9,19 +9,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusWitzgall&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px 10px; align-items:center;">
-    <img align="center" alt="Vini-Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img align="center" alt="Vini-Laravel" height="30" src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"> 
-    <img align="center" alt="Vini-C++" height="30" src="https://img.shields.io/badge/C%2B%2B-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" alt="Vini-php" height="30" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="Vini-Java" height="30" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="Vini-React" height="30" src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white">
-    <img align="center" alt="Vini-Node" height="30" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Vini-Git" height="30" src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white"> 
-    <img align="center" alt="Vini-Tailwind" height="30" src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img align="center" alt="Vini-mysql" height="30" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Vini-Js" height="30" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+
+<div style="display:flex; flex-wrap:wrap; gap:15px 8px; align-items:center;">
+    <img height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"> 
+    <img height="30" src="https://img.shields.io/badge/C%2B%2B-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white"> 
+    <img height="30" src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"> 
 </div>
+
 
 
   

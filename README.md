@@ -24,9 +24,6 @@
     <img height="30" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"> 
 </div>
-
-
-
   
 ##
   
